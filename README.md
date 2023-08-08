@@ -2,7 +2,10 @@
 <h2 align="center">A curious software engineer trying to find the intersection of business and technology</h2>
 
 *   🌍  Based in SF Bay Area, CA
-*   🧑‍💻  Find and contact me: https://www.linkedin.com/in/darienp
+*   🧑‍💻  Find and contact me: 
+[![LinkedIn](https://img.shields.io/badge/darienp%20-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/darienp/)](https://www.linkedin.com/in/darienp/)
+[![GitHub](https://img.shields.io/badge/darienpoon%20-%23121011.svg?&style=flat-square&logo=github&logoColor=white&link=https://github.com/darienpoon)](https://github.com/darienpoon)
+[![Gmail](https://img.shields.io/badge/darienpoon%20-%23D14836.svg?&style=flat-square&logo=gmail&logoColor=white&link=mailto:darienpoon1@gmail.com)](mailto:darienpoon1@gmail.com)
 
 My technical expertise includes Javascript technology such as React, Node, Express, and other front-end frameworks with HTML and CSS. Additionally, I have experience with backend and DevOps experience in microservices development, scaling and deployment with AWS.
 
